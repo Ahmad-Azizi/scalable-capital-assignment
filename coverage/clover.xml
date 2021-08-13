@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1625749798934" clover="3.2.0">
+  <project timestamp="1625749798935" name="All files">
+    <metrics statements="92" coveredstatements="62" conditionals="4" coveredconditionals="3" methods="34" coveredmethods="17" elements="130" coveredelements="82" complexity="0" loc="92" ncloc="92" packages="10" files="13" classes="13"/>
+    <package name="src">
+      <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="app.js" path="/Users/ahmadnajamazizi/Workplace/Temp/Scalable Capital/frontend-test-assignment-refactored/src/app.js">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+      </file>
+      <file name="index.js" path="/Users/ahmadnajamazizi/Workplace/Temp/Scalable Capital/frontend-test-assignment-refactored/src/index.js">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.api">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="constants.js" path="/Users/ahmadnajamazizi/Workplace/Temp/Scalable Capital/frontend-test-assignment-refactored/src/api/constants.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+      <file name="index.js" path="/Users/ahmadnajamazizi/Workplace/Temp/Scalable Capital/frontend-test-assignment-refactored/src/api/index.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.js" path="/Users/ahmadnajamazizi/Workplace/Temp/Scalable Capital/frontend-test-assignment-refactored/src/components/index.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="src.components.Chart">
+      <metrics statements="21" coveredstatements="21" conditionals="2" coveredconditionals="2" methods="6" coveredmethods="6"/>
+      <file name="index.js" path="/Users/ahmadnajamazizi/Workplace/Temp/Scalable Capital/frontend-test-assignment-refactored/src/components/Chart/index.js">
+        <metrics statements="21" coveredstatements="21" conditionals="2" coveredconditionals="2" methods="6" coveredmethods="6"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="121" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="121" type="stmt"/>
+        <line num="21" count="121" type="stmt"/>
+        <line num="22" count="121" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="76" count="1" type="stmt"/>
+        <line num="77" count="1" type="stmt"/>
+        <line num="80" count="1" type="stmt"/>
+        <line num="84" count="2" type="stmt"/>
+        <line num="92" count="2" type="stmt"/>
+        <line num="96" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.CustomFilter">
+      <metrics statements="15" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="2"/>
+      <file name="index.js" path="/Users/ahmadnajamazizi/Workplace/Temp/Scalable Capital/frontend-test-assignment-refactored/src/components/CustomFilter/index.js">
+        <metrics statements="15" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="2"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="23" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="75" count="2" type="stmt"/>
+        <line num="79" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Table">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="index.js" path="/Users/ahmadnajamazizi/Workplace/Temp/Scalable Capital/frontend-test-assignment-refactored/src/components/Table/index.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="19" count="121" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="35" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.fixtures">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="testData.js" path="/Users/ahmadnajamazizi/Workplace/Temp/Scalable Capital/frontend-test-assignment-refactored/src/fixtures/testData.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="608" count="3" type="stmt"/>
+        <line num="609" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.navigation">
+      <metrics statements="26" coveredstatements="14" conditionals="2" coveredconditionals="1" methods="12" coveredmethods="4"/>
+      <file name="constants.js" path="/Users/ahmadnajamazizi/Workplace/Temp/Scalable Capital/frontend-test-assignment-refactored/src/navigation/constants.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+      </file>
+      <file name="index.js" path="/Users/ahmadnajamazizi/Workplace/Temp/Scalable Capital/frontend-test-assignment-refactored/src/navigation/index.js">
+        <metrics statements="24" coveredstatements="12" conditionals="2" coveredconditionals="1" methods="12" coveredmethods="4"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="34" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="64" count="1" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.navigation.Menu">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="/Users/ahmadnajamazizi/Workplace/Temp/Scalable Capital/frontend-test-assignment-refactored/src/navigation/Menu/index.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.utils">
+      <metrics statements="11" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="index.js" path="/Users/ahmadnajamazizi/Workplace/Temp/Scalable Capital/frontend-test-assignment-refactored/src/utils/index.js">
+        <metrics statements="11" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

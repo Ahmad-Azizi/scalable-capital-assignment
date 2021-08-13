@@ -1,0 +1,1 @@
+export const CONES_ENDPOINT = '/api/cones';
